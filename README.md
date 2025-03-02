@@ -12,14 +12,7 @@ source ./bin/activate
 pip install --require-hashes -r requirements.txt
 ```
 
-Download weights and vocabulary:
-
-```
-bash download.sh
-DATA=ag_ckpt_vocab
-```
-
-Finally, install `meliad` separately as it is not
+Install `meliad` separately as it is not
 registered with `pip`:
 
 ```
