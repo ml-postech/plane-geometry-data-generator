@@ -167,4 +167,3 @@ meliad_lib/
 ag_ckpt_vocab/
 
 confirm_bbox.py
-*.txt
